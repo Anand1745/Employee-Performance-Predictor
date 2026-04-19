@@ -89,7 +89,7 @@ Employee-Performance-Predictor/
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/your-username/Employee-Performance-Predictor-ML.git
+git clone https://github.com/Anand1745/Employee-Performance-Predictor.git
 cd Employee-Performance-Predictor-ML
 ```
 
